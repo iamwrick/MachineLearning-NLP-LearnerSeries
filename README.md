@@ -1,6 +1,6 @@
 # MachineLearning-NLP-LearnerSeries
 
-It is important to fundamentally understand what is Data Science, and it's back-end concepts and the mathematical / statistical formulaes which guides it. This is a small attempt to uncover the Why | What | How | When part of the story. We will go over some of the basic concepts, and try and explore the world of Artificial Intellignence and MachineLearning. 
+It is important to fundamentally understand what is Data Science, and it's back-end concepts and the mathematical / statistical formulaes which guides it. This is a small attempt to uncover the Why | What | How | When part of the story. We will go over some of the basic concepts, and try and explore the world of Artificial Intelligence and MachineLearning. 
 
 How to Use the Notebooks - 
 Step 1- Go over the Concepts document to understand the background
