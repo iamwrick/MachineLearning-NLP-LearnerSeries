@@ -1,3 +1,6 @@
 # MachineLearning-NLP-LearnerSeries
-It is important to fundamentally understand what is Data Science, before trying to explore MachineLearning. So, what is Data Science -  It is a multi-disciplinary field field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
-And, what is algorithm ? Simply speaking, and algorithm is 
+
+It is important to fundamentally understand what is Data Science, and it's back-end concepts and the mathematical / statistical formulaes which guides it. This is a small attempt to uncover the Why | What | How | When part of the story. We will go over some of the basic concepts, and try and explore the world of Artificial Intellignence and MachineLearning. 
+
+DISCLAIMER - Opinions and views expressed here are solely my own and not the views of my employer and/or any 3rd party.
+
