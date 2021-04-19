@@ -1,1 +1,30 @@
+MachineLearning-NLP-LearnerSeries
+It is important to fundamentally understand what is Data Science, before trying to explore MachineLearning. So, what is Data Science - It is a multi-disciplinary field field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. And, what is algorithm ? Simply speaking, and algorithm is     
+    * Step by step instructions to solve a problem
+    * Unambiguous (clear with no ambiguity) containing specifications on how to solve a class of specific problems
+    * pseudo code - it is english like syntax
+So, what is MachineLearning ? Programming computers to learn from experience, eventually eliminating the need for the programming effort. In a nutsehll, Machine learning is the study of computer algorithms that improve automatically through experience and by the use of data.
+Now, that we have some high-level understanding of MachineLearning, let's try to understand types of Machine Learning
+
+* Supervised learning
+    * Think like teacher teaching students and supervising and showing examples and feedback
+    * It needs training and testing data
+    * Data is labelled
+
+* Unsupervised learning
+    * No training is needed. It gets On-Job training with unlabelled data. Figure out yourself while on-job. 
+    * Think like you are learning on your own and you do not have any teacher
+    * You do not measure accuracy with it
+    * Example - 
+        * Say you have height and weight data. No labels present which says, if it is a male or female. Now a clustering algorithm can go through the data and try to understand data. It can structure the data into groups
+        * Autoencoders - Neural network that takes input and outputs a reconstruction of the input
+            * Handwritten images(numbers) enter as input → encoder → decoder and reconstruction of image is created. How to compare if input is equal to output ? 
+The Loss function can help with the comparison
+* Reinforcement learning*
+    * Reward based learning 
+Before we try to understand, NLP, let us look at a high-level what is DeepLearning ? Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. 
+
+In this series, we will focus on Natural Language Processing (NLP) aspect of MachineLearning and DeepLearning
+Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
+
 
